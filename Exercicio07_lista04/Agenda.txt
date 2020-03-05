@@ -1,0 +1,16 @@
+##Numero
+93232323     
+##Pessoal
+ivo
+ivo@hotmail.com
+23232
+##Proficional
+roger
+roger@gmail.com
+RogeRito
+##Proficional
+roger
+roger@gmail.com
+RogeRito
+##Registro
+[[93232323    ligou para 23232, 93232323    ligou para RogeRito], [93232323    ligou para 23232, 93232323    ligou para RogeRito], [93232323    ligou para 23232, 93232323    ligou para RogeRito], 93232323     ligou para 23232]
